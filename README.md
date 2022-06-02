@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#Connect with me
+# Connect with me
 <a href="https://linkedin.com/in/hampus-a-0957b9140" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -45,3 +45,12 @@
   
 
 <br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
