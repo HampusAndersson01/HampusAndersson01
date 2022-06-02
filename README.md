@@ -1,5 +1,5 @@
 ### Hampus Andersson
-- :open_book: I’m currently studying .NET
+- :open_book: I’m currently studying System Developer .NET
 
 - 🌱 I’m currently learning Python
 
