@@ -1,10 +1,16 @@
-### Hampus Andersson
+<h1 align="center">Hi 👋, I'm Hampus Andersson</h1>
+<h3 align="center">A System Developer student from Sweden</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> </p>
+
 - :open_book: I’m currently studying System Developer .NET
 
 - 🌱 I’m currently learning Python
 
 <a href="https://discord.com/users/282811845838897152">
  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/282811845838897152" /> </a>
+<a href="">
+ <img align="right" src="" /> </a>
 
 # My Skill Set
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,17 +40,12 @@
   <a href="https://wakatime.com/@HampusAndersson01">
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=HampusAndersson01&layout=compact&theme=github_dark&hide_border=true" />
 </a>
+ <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HampusAndersson01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/></p>
   </div> 
 <br/>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=HampusAndersson01&&style=flat-square" align="center" />
-</div>  
   
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank" style="display: inline-block;">
