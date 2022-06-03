@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> </p>
 
-- :open_book: I’m currently studying System Developer .NET
+- :open_book: I’m currently studying System Developement in .NET
 
 - 🌱 I’m currently learning Python
 
