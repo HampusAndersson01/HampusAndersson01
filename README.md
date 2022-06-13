@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hampus Andersson</h1>
 <h3 align="center">A System Developer student from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> 
+ <img src="https://wakatime.com/badge/user/930ea802-b645-4cd7-9d41-dec5aef42231.svg" alt="Total time coded" />
+
+</p>
+
 
 - :open_book: I’m currently studying System Developement in .NET
 
@@ -23,6 +28,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 # Connect with me
 <a href="https://linkedin.com/in/hampus-a-0957b9140" target="_blank">
