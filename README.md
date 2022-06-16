@@ -52,10 +52,9 @@
   
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+            
+ <a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank" style="display: inline-block;">
+                <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" align="center">
+            </a>
+</div>
 <br />
