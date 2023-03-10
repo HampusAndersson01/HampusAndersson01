@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning .NET
 
-<a href="https://discord.com/users/282811845838897152">
- <img align="right" src="https://lanyard-profile-readme.vercel.app/api/282811845838897152" /> </a>
 
 # My Skill Set
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
