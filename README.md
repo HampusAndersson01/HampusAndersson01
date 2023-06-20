@@ -7,10 +7,6 @@
 
 </p>
 
-- :open_book: I’m currently looking for work
-
-- 🌱 I’m currently learning .NET
-
 # My Skill Set
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
