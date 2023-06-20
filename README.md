@@ -7,13 +7,12 @@
 
 </p>
 
-
-- :open_book: I’m currently studying System Developement in .NET
+- :open_book: I’m currently looking for work
 
 - 🌱 I’m currently learning .NET
 
-
 # My Skill Set
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,15 +34,14 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-
-
-
 # Connect with me
+
 <a href="https://linkedin.com/in/hampus-a-0957b9140" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
 
-## Github Stats  
+## Github Stats
+
 <div align="center"> 
  <a href="https://github.com/HampusAndersson01">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HampusAndersson01&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
@@ -54,10 +52,9 @@
 </a>
  <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HampusAndersson01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/></p>
   </div> 
-<br/>  
+<br/>
 
-<br/>  
-  
+<br/>
 
 <div align="center">
             
