@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hampus Andersson</h1>
-<h3 align="center">A System Developer student from Sweden</h3>
+<h3 align="center">A System Developer from Sweden</h3>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> 
