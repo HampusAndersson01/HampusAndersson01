@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hampus Andersson</h1>
 <h3 align="center">A System Developer from Sweden</h3>
 
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> 
- <img src="https://wakatime.com/badge/user/930ea802-b645-4cd7-9d41-dec5aef42231.svg" alt="Total time coded" />
-</p>
+
 
 # About Me
 
@@ -83,6 +80,10 @@ During my internship at Volvo Powertrain, I was part of a C# development team ac
 </a>
 
 ## Github Stats
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> 
+ <img src="https://wakatime.com/badge/user/930ea802-b645-4cd7-9d41-dec5aef42231.svg" alt="Total time coded" />
+</p>
 
 <div align="center"> 
  <a href="https://github.com/HampusAndersson01">
