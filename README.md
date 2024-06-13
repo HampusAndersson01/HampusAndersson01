@@ -5,13 +5,11 @@
 
 # About Me
 
-My name is Hampus Andersson, a recent graduate in software development with a keen interest in technology. After completing my .NET education at the Higher Vocational Education in Borås and interning at Volvo Powertrain in Gothenburg, I am eager to kickstart my career in system development.
+I'm Hampus Andersson, a trained system developer with a passion for technology. I completed my .NET education at the Higher Vocational Education in Borås and gained practical experience through an internship at Volvo Powertrain in Gothenburg, where I contributed to C# development projects.
 
-During my high school years, I became fascinated with programming and explored various languages, including Python, HTML, CSS, and PHP. My Higher Vocational Education in Borås deepened my technical skills through hands-on experience with C#, the .NET environment, and agile development methodologies. I also honed my abilities in Javascript, Typescript, and React for front-end development, gaining a solid understanding of database management with MySQL.
+My journey into programming began during high school, where I delved into Python, HTML, CSS, and PHP. At Higher Vocational Education, I specialized in C#, .NET, and agile methodologies, and expanded my skills in Javascript, Typescript, and React for front-end development. I also developed a strong foundation in MySQL for database management.
 
-This education equipped me with tools to analyze and solve complex problems through structured coding, significantly contributing to my proficiency in system development.
-
-During my internship at Volvo Powertrain, I was part of a C# development team actively contributing to the development of an internal application. Working in an agile environment became second nature, and my primary goal as a system developer is to continue refining these skills and applying them to practical and efficient solutions.
+Through structured coding and problem-solving, I've honed my abilities in system development. At Volvo Powertrain, I thrived in an agile environment, actively contributing to the development of internal applications. My goal as a system developer is to continue refining these skills and applying them to practical, efficient solutions.
 
 # My Skill Set
 
