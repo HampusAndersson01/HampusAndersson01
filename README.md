@@ -1,15 +1,49 @@
-<h1 align="center">Hi 👋, I'm Hampus Andersson</h1>
-<h3 align="center">A System Developer from Sweden</h3>
-
-
+<h1 align="center" style="color: #20C997;">Hi 👋, I'm Hampus Andersson</h1>
+<h3 align="center" style="color: #20C997;">A System Developer from Sweden</h3>
 
 # About Me
 
 I'm Hampus Andersson, a trained system developer with a passion for technology. I completed my .NET education at the Higher Vocational Education in Borås and gained practical experience through an internship at Volvo Powertrain in Gothenburg, where I contributed to C# development projects.
 
-My journey into programming began during high school, where I delved into Python, HTML, CSS, and PHP. At Higher Vocational Education, I specialized in C#, .NET, and agile methodologies, and expanded my skills in Javascript, Typescript, and React for front-end development. I also developed a strong foundation in MySQL for database management.
+My journey into programming began during high school, where I delved into Python, HTML, CSS, and PHP. At Higher Vocational Education, I specialized in C#, .NET, and agile methodologies, and expanded my skills in JavaScript, TypeScript, and React for front-end development. I also developed a strong foundation in MySQL for database management.
 
 Through structured coding and problem-solving, I've honed my abilities in system development. At Volvo Powertrain, I thrived in an agile environment, actively contributing to the development of internal applications. My goal as a system developer is to continue refining these skills and applying them to practical, efficient solutions.
+# Portfolio
+
+Here are some of the projects I've worked on:
+
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/Parameter-Database" style="color: inherit; text-decoration: none;" target="_blank">Parameter Database (Thesis work)</a></span>  
+  **Skills used**: MySQL, REST API, React.js, TypeScript  
+  **Description**: This project serves as a thesis work for Volvo Trucks Technology. The Parameter Database is designed to manage and store parameters related to various rig families, featuring a comprehensive API and web interface.
+
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/BikeQueueWeb" style="color: inherit; text-decoration: none;" target="_blank">Bike Queue Management System</a></span>  
+  **Skills used**: TypeScript, React.js, Node.js  
+  **Description**: The Bike Queue Management System is a user-friendly application designed to manage bike queues efficiently. Built using React and TypeScript, it ensures a robust and scalable solution. The application is actively used in my current workplace, demonstrating its reliability in real-world scenarios. Key features include bike queue management, timer functionality, a user-friendly interface, and Swedish language support for confirmation dialogs.
+
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/CollabCart" style="color: inherit; text-decoration: none;" target="_blank">CollabCart</a></span>  
+  **Skills used**: React.js, Firebase Realtime Database  
+  **Description**: CollabCart is a real-time shopping list application that allows users to create, share, and manage shopping lists collaboratively. Leveraging Firebase's real-time database functionality, it provides seamless updates across multiple users.  
+  
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/pizzeria-website" style="color: inherit; text-decoration: none;" target="_blank">Pizzeria Website</a></span>  
+  **Skills used**: Next.js, TypeScript  
+  **Description**: This project showcases a mock website for a pizzeria, designed to help establish an online presence. It features a dynamic menu display and is responsive across all devices, ensuring a consistent user experience.
+
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/Quinyx-iCalendar-Converter" style="color: inherit; text-decoration: none;" target="_blank">Quinyx iCalendar Converter</a></span>  
+  **Skills used**: Python  
+  **Description**: A Python script that fetches work schedules from the Quinyx API and creates an iCalendar file (.ics) for integration with calendar applications. This tool helps with syncing work schedules to a preferred calendar through reverse engineering of API calls.
+
+- <span style="font-size: 20px; font-weight: bold; color: #20C997;"><a href="https://github.com/HampusAndersson01/VaultCLI" style="color: inherit; text-decoration: none;" target="_blank">VaultCLI</a></span>  
+  **Skills used**: C#  
+  **Description**: VaultCLI is a simple password manager command-line application written in C#. It allows users to securely add and manage passwords with encryption.  
+
+
+# Connect with Me
+
+<p align="start">
+<a href="https://linkedin.com/in/hampus-a-0957b9140" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+</p>
 
 # My Skill Set
 
@@ -71,36 +105,4 @@ Through structured coding and problem-solving, I've honed my abilities in system
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black)
 
-# Connect with me
 
-<a href="https://linkedin.com/in/hampus-a-0957b9140" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-## Github Stats
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=hampusandersson01&label=Profile%20views&color=0e75b6&style=flat" alt="hampusandersson01" /> 
- <img src="https://wakatime.com/badge/user/930ea802-b645-4cd7-9d41-dec5aef42231.svg" alt="Total time coded" />
-</p>
-
-<div align="center"> 
- <a href="https://github.com/HampusAndersson01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HampusAndersson01&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/HampusAndersson01">
-  <img src="https://github-readme-stats.vercel.app/api?username=HampusAndersson01&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
-  <a href="https://wakatime.com/@HampusAndersson01">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=HampusAndersson01&layout=compact&theme=github_dark&hide_border=true" />
-</a>
- <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HampusAndersson01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/></p>
-  </div> 
-<br/>
-
-<br/>
-
-<div align="center">
-            
- <a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank" style="display: inline-block;">
-                <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" align="center">
-            </a>
-</div>
-<br />
