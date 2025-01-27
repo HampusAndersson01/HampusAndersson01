@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a trained **system developer** with a passion for technology and continuous learning. I completed my .NET education at the **Higher Vocational Education in Borås** and gained practical experience during my internship at **Volvo Powertrain** in Gothenburg, focusing on C# development projects.
+I'm a **system developer** with a passion for technology and continuous learning. I completed my .NET education at the **Higher Vocational Education in Borås** and gained practical experience during my internship at **Volvo Powertrain** in Gothenburg, focusing on C# development projects.
 
 ### My Journey
 - **High School**: Started programming with Python, HTML, CSS, and PHP.
