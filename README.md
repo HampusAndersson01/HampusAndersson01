@@ -31,7 +31,7 @@ Internship focused on C# development and working in a real engineering environme
 ## 🗂️ Coursework & Exercises (FSU25D)
 
 All of my school-related repos (assignments, exercises, labs) are organized in a separate GitHub organization:  
-👉 **[https://github.com/FSU25D-Hampus](https://github.com/orgs/Hampus-FSU25D/repositories)**
+👉 **[Hampus-FSU25D](https://github.com/orgs/Hampus-FSU25D/repositories)**
 
 ## 🚀 Projects
 
