@@ -1,0 +1,14 @@
+name: DSLR AI Coach Runner Smoke
+on:
+  push:
+    branches: [build/dslr-ai-coach]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "runner-ok"
