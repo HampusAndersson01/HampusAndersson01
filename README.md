@@ -21,6 +21,22 @@
 
 ---
 
+## 🔨 Currently Building
+
+### 🍽️ Köksklart
+
+**Next.js · TypeScript · MySQL · Multi-tenant**
+
+Köksklart is a meal ordering system for schools and preschools. It is designed to replace paper-based ordering and give departments, kitchens and administrators one clear workflow.
+
+The system handles weekly ordering, special diets, department administration, kitchen overviews and multiple sites.
+
+Köksklart is currently being tested in a real preschool environment while I continue developing the product.
+
+🔗 [Try the Köksklart demo](https://demo.koksklart.se/)
+
+---
+
 ## 🚀 What I Build
 
 I like taking an idea or problem and turning it into a working product. That can involve designing the system, building the backend and frontend, working with databases and APIs, deploying it and improving it based on how it is actually used.
@@ -73,20 +89,6 @@ My own web and software business where I work directly with companies to build w
 Running HA Webbyrå has given me experience with much more than implementation. I work with requirements, customer communication, development, deployment, infrastructure, maintenance and taking responsibility for the complete delivery.
 
 🔗 [hawebbyra.se](https://hawebbyra.se)
-
----
-
-## 🔨 Currently Building
-
-I’m almost always working on something new, whether that is a larger product, a developer tool, an automation or an experiment that solves a problem I have run into myself.
-
-My GitHub contains both finished projects and work in progress, so the best place to see what I am currently building is my repository activity.
-
-**If you found my GitHub through one of my projects, I’m currently open to software development opportunities.**
-
-I’m happy to talk about the project, the technical decisions behind it or relevant software development roles.
-
-🔗 [View my repositories](https://github.com/HampusAndersson01?tab=repositories)
 
 ---
 
@@ -154,6 +156,8 @@ Docker · Linux · Git · GitHub · GitHub Actions · Cloudflare · Vercel · Co
 I’m currently **open to software developer opportunities**.
 
 I’m especially interested in roles involving full-stack development, backend systems, integrations, internal tools and product development.
+
+If you found my GitHub through one of my projects and want to know more about how it was built, feel free to reach out.
 
 🌐 [hampusandersson.dev](https://hampusandersson.dev)
 💼 [LinkedIn](https://linkedin.com/in/hampus-a-0957b9140)
